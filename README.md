@@ -1,2 +1,2 @@
-# sales-prediction
-Sales forecasting using machine learning
+# Asthma-prediction
+Asthma Prediction using machine learning
